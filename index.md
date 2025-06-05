@@ -1,4 +1,8 @@
-# Grace Hsiao-Han Chuang — Scientific Tutorials
+---
+title: Grace Hsiao-Han Chuang
+theme: minima
+---
+# Scientific Tutorials
 
 I'm Grace, a theoretical and computational chemist. This site is a collection of scientific tutorials, notebooks, and visual materials related to my research and teaching.
 
