@@ -2,7 +2,7 @@
 title: Grace Hsiao-Han Chuang
 theme: minima
 ---
-# Scientific Tutorials
+<!-- # Scientific Tutorials
 
 I'm Grace, a theoretical and computational chemist. This site is a collection of scientific tutorials, notebooks, and visual materials related to my research and teaching.
 
@@ -23,4 +23,4 @@ This site complements my main website, which includes research overviews, public
 
 ## License
 
-All content is shared for educational and research use. Please credit appropriately if you reuse material.
+All content is shared for educational and research use. Please credit appropriately if you reuse material. -->
